@@ -1,1 +1,2 @@
 File Test2: Testing for Git commit -->
+Testing test2.tx for add . function
